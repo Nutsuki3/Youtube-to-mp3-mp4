@@ -1,7 +1,7 @@
 
 # Youtube Converter
 
-This is a tool to convert YouTube URLs to MP3 and MP4.
+This is a tool to convert YouTube URL to MP3 and MP4.
 
 ## Prerequisites
 
