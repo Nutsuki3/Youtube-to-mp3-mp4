@@ -6,7 +6,7 @@ This is a tool to convert YouTube URLs to MP3 and MP4.
 ## Prerequisites
 
 To run the Python script, you need to have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/).
-If you are working directly through the file You must install this library.
+And You must install pytube library.
 ```md
 
 pip install pytube
